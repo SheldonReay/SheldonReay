@@ -1,7 +1,7 @@
 ## 🌊 About Me
 
 - 💻 I'm a new Computer Science Honours Graduate
-- 🔨 I am current looking for work
+- 🔨 I enjoy working with new technologies
 
 ## ⚡ Technologies
 
